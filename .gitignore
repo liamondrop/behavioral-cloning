@@ -91,3 +91,6 @@ ENV/
 # This project
 dataset
 Data
+data
+model
+track_1
