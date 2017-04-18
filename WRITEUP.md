@@ -63,10 +63,10 @@ I experimented with a number of ways to generalize the model. The images fed int
 ## Test Runs
 
 ### Track 1
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7UDXKjHU_3s" frameborder="0" allowfullscreen></iframe>
+[![Track 1](https://img.youtube.com/vi/7UDXKjHU_3s/0.jpg)](https://www.youtube.com/watch?v=7UDXKjHU_3s)
 
 ### Track 2
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SvWAL5ckowo" frameborder="0" allowfullscreen></iframe>
+[![Track 2](https://img.youtube.com/vi/SvWAL5ckowo/0.jpg)](https://www.youtube.com/watch?v=SvWAL5ckowo)
 
 ## Visualizing the Convolutional layers
 
