@@ -91,6 +91,8 @@ ENV/
 # This project
 dataset
 Data
-data
-model
-track_1
+data/*
+data.zip
+model/*
+track_1/*
+track_2/*
