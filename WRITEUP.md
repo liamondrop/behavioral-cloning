@@ -1,7 +1,5 @@
 # **Behavioral Cloning**
 
----
-
 For this project, I trained a convolutional neural network (CNN) to map images captured from a simulated car to steering commands. With training data limited to runs around two tracks recorded in a simulator, the CNN learns to successfully navigate both tracks, which include varying lane markings and lighting conditions, challenging turns and steep inclines.
 
 All training, testing and validation was done on a 2015 MacBook Pro with 16GB of memory, using a standard build of Keras 2.0 to build the model and Tensorflow v1.0.1 as the back end. With this configuration, the system is capable of driving both tracks at a simulated speed of 20 MPH. At 30 MPH, the car tends to veer off the road at points, which I believe is more due to latency (most likely from slowness on the part of my CPU forward propagating an image through the network) than an inherent shortcoming in the CNN's design.
