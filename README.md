@@ -12,7 +12,7 @@ _Teaching a car to drive_
 
 ### **Project Overview**
 
-This project contains the results from completing Project 3 of the Udacity Self-Driving Car Engineer Nanodegree. The goal of this project is to teach a convolutional neural net to drive a car, using only video of humans driving as input.
+This project contains the results from completing Project 3 of the Udacity Self-Driving Car Engineer Nanodegree. The goal of this project is to teach a convolutional neural net to drive a car, using only video of humans driving as input. All driving was recorded with Udacity's [driving simulator](https://github.com/udacity/self-driving-car-sim).
 
 #### Files in the repository
 * The code for the model and training procedure - [model.py](./model.py)
